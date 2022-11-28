@@ -1,6 +1,6 @@
-Hey, I'm [Mustafa Alkaysi](https://www.linkedin.com/in/mustafaalkaysi/), a Tech Strategy & Analytics Manager at Deloitte. At work I focus on providing clients with technology strategy and product implementation. Some of my work includes managing a Salesforce implementation, cloud strategy, and Enterprise-wide IT Modernization strategy projects.
+Hey, I'm [Mustafa Alkaysi](https://www.linkedin.com/in/mustafaalkaysi/), a Tech Strategy & Analytics Manager at Deloitte. At work I focus on providing clients with technology strategies and product implementation. Some of my work includes managing a Salesforce implementation, cloud strategy, and Enterprise-wide IT Modernization.
 
-Outside of work I'm passionate about learning all kinds of technologies and focusing on my hobbies. Some of the technologies I'm currently working with include:
+Outside of work, I love learning about different types of technology and focusing on my hobbies. Some of the tech stacks I'm currently working with include:
 
 * JavaScript, CSS, HTML
 * React/Redux
