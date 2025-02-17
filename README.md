@@ -2,10 +2,10 @@ Hey, I'm [Mustafa Alkaysi](https://www.linkedin.com/in/mustafaalkaysi/), a Tech 
 
 Outside of work, I love learning about different types of technology and focusing on my hobbies. Some of the tech stacks I'm currently working with include:
 
-* JavaScript, TypeScript CSS, HTML
-* React-Redux
-* Next.js
+* React / Next.js / Vite
+* React Native / Expo
 * Node.js
+* JavaScript, TypeScript CSS, HTML
 * MongoDB
 * Python
 
