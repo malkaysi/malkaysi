@@ -2,12 +2,10 @@ Hey, I'm [Mustafa Alkaysi](https://www.linkedin.com/in/mustafaalkaysi/), a Tech 
 
 Some of the tech stacks I'm currently working with include:
 
-* React / Next.js / Vite
-* React Native / Expo
-* Node.js
-* JavaScript, TypeScript CSS, HTML
-* MongoDB
-* Java Spring Boot Microservices
+* Front-End: React - Next.js / Vite, React Native - Expo
+* Back-end: Node.js, Java Spring Boot Microservices
+* Languages: JavaScript/TypeScript, CSS, HTML, Java, Python
+* Databases: MongoDB, SQL
 * Python
 
 I'm currently building [Wealth Map](https://wealthmap.vercel.app/) and helping with www.reicopilot.com come check it out!
